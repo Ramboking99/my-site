@@ -39,7 +39,7 @@ a:hover {
 }
 
 h1 {
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
   padding-bottom: 10px;
   font-family: 'Sacramento', cursive;
@@ -50,7 +50,7 @@ h1 {
 }
 
 .prog {
-  width: 25%;
+  width: 30%;
   margin: 0 auto;
   position: relative;
   top: -40px;
@@ -91,13 +91,13 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 10%;
   bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 10%;
   top: 50px;
 }
 
